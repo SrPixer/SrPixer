@@ -1,6 +1,6 @@
 - 👋 Olá, Estou Aprenendo C#,ASP.NET,Pyhon Com Foco Em Engenharia Reverse E Hacking
 - 👀 Além De Programar Faço Jiu-jtsu E Academia Entre Outros Como Inglês.
-- 🌱 Email E Discord Para Contato É: Discord: SrPixer2 Email. Sr.Pixer@hotmail.com
+- 🌱Discord Para Contato É: Discord: SrPixer2 
 - 😄 Pronomes: Ele/Dele 
 
 
